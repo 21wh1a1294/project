@@ -1,3 +1,5 @@
+#project : colorizaing black and white image
+
 import numpy as np 
 import cv2
 
